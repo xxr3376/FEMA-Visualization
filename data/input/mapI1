@@ -1,0 +1,597 @@
+0,Christos Faloutsos
+1,S. Christodoulakis
+2,N Roussopoulos
+3,T Sellis
+4,Jiawei Han
+5,Ghassan Z. Qadah
+6,Chinying Chaou
+7,Sang-goo Lee
+8,Raphael Chan
+9,Wo-shun Luk
+10,Cheong Youn
+11,L. Henschen
+12,Leo Mark
+13,Chih-chen Lin
+14,Ning Zhuang
+15,Winston Rego
+16,Ling Liu
+17,Weining Zhang
+18,W. S. Luk
+19,Raymond Lee
+20,B. Schneiderman
+21,C Plaisant
+22,Yandong Cai
+23,Nick Cercone
+24,Beng Chin. Ooi
+25,Chee Chin Low
+26,Yi Rong
+27,Wang Qiang
+28,Raymond Ng
+29,Kangsheng Zeng
+30,I. Kamel
+31,H.-J. Kim
+32,H. V. Jagadish
+33,W. Lu
+34,Tong Lu
+35,Yongjian Fu
+36,Karima Ashraf
+37,Zhaohui Xie
+38,Xiaohua Hu
+39,Shaul Dar
+40,Arun Swami
+41,JOEL E. RICHARDSON
+42,Arthur Toya
+43,Paul Mcfetridge
+44,Fred Popowich
+45,Y. Manolopoulos
+46,Mudumbai Ranganathan
+47,D. James Gemmell
+48,Shojiro Nishio
+49,S. P. Ghosh
+50,M. Carey
+51,Ramakrishnan Srikant
+52,Hugo MIRANDA
+53,Balakrishna R. Iyer
+54,Maurice A. W. Houtsma-
+55,A. Mahboob
+56,Tomasz Imielinski
+57,George Panagopoulos
+58,Nicholas DeClaris
+59,Bonnie Dorr
+60,Douglas W. Oard
+61,Euripides G. M. Petrakis
+62,Wenyu Lu
+63,D. W. Lee
+64,Manish Arya
+65,William F. Cody
+66,Nick Cercone Yue Huang
+67,Ada W. Fu
+68,David Wai-lok Cheung
+69,Y. S. Huang
+70,Jim Gemmell
+71,Osmar Zaïane
+72,Richard Beaton
+73,D. James Gemmel
+74,Anil Kumar
+75,V. J. Tsotras
+76,Alberto Belussi
+77,Krzysztof Koperski
+78,Osmar R. Za? Ane
+79,Gabor Melli
+80,Simon Fraser
+81,S. Tang
+82,V. Kobla
+83,David Doermann
+84,King-Ip Lin
+85,Philip Korn
+86,Eliot Siegel
+87,Zenon Protopapas
+88,Nicholaos D. Sidiropoulos
+89,Usama Fayyad
+90,Evangelos Simoudis
+91,Yossi Matias
+92,A. SILBERSCHATZ
+93,Kian-lee Tan
+94,B. Xia
+95,N. Stefanovic
+96,Jenny Chiang
+97,Deyi Li
+98,Amynmohamed Rajan
+99,W Gong
+100,Yijun Lu
+101,M. S Chen
+102,Bongki Moon
+103,Joel H. Saltz
+104,Junas Adhikary
+105,Volker Gaede
+106,Youngjian Fu
+107,V. T. Ng
+108,Nikolaos D. Sidiropoulos
+109,F. Korn
+110,Philip Yu
+111,Micheline Kamber
+112,Wang Gon
+113,Lara Winstone
+114,Alex Pang
+115,B. Agnew
+116,Xiaogang Xue
+117,Zhengyu Wang
+118,Donald J. Welch
+119,Hua Zhu
+120,Sonny H. Chee
+121,Q. Chen
+122,Shan Cheng
+123,Gang Liu
+124,Shuhua Zhang
+125,Jianping Chen
+126,C. Zaniolo
+127,Roberto Zicari
+128,Richard Snodgrass
+129,V. Subrahmanian
+130,S. Ceri
+131,Byoung-kee Yi
+132,Larry A. Wasserman
+133,T Mitchell
+134,S. B. Thrun
+135,Zongtao Li
+136,GUIDO PROIETTI
+137,Peter Triantafillou
+138,G. Gibson
+139,Erik Riedel
+140,Son Dao
+141,Man-chung Chan
+142,X. M. Shi
+143,Y. Ishikawa
+144,Ravishankar Subramanya
+145,Yiwen Yin
+146,Jean Hou
+147,Man Xin
+148,Gong Yihong
+149,Teresa Mah
+150,Lü Hongjun
+151,Petros Faloutsos
+152,Michalis Faloutsos
+153,Anthony K. H. TUNG
+154,A. Biliris
+155,Tommy Johnson
+156,Runying Mao
+157,Jian Pei
+158,C. Traina
+159,H. Miller
+160,Terry Payne
+161,Katia Sycara
+162,L. Wu
+163,J. Lam
+164,E. S. Kim
+165,Behzad Mortazavi-asl
+166,Alan L. Montgomery
+167,Yu Hui He
+168,C. Palmer
+169,Bernd-Uwe Pagel
+170,H. Y. Hwang
+171,Umeshwar Dayal
+172,Qiming Chen
+173,Mei-Chun Hsu
+174,Y. Bè??dard
+175,T. Merret
+176,Helen Pinto
+177,L. Chen
+178,Yaqin Liao
+179,Y. Lu
+180,Hasan Jamil
+181,Wenmin Li
+182,Dimitris Margaritis
+183,Anastasia Ailamaki
+184,David F. Nagle
+185,Hwanjo Yu
+186,K.-C. Chang
+187,Lucio Soibelman
+188,Carlos Caldas
+189,Mengzhi Wang
+190,Deepayan Chakrabarti
+191,Z. Wei
+192,DARYL PREGIBON
+193,P. Smyth
+194,Jafar Adibi
+195,Hiro Kitawaga
+196,P. B. Gibbons
+197,Ke Wang
+198,N. Chan
+199,Tara M. Madhyastha
+200,M. Winslett
+201,Yuanyuan ZHOU
+202,Anhai Doan
+203,Xifeng Yan
+204,Kumar V
+205,Russ B Altman
+206,HEIKKI MANNILA
+207,Sylvie Servigne
+208,Robert Laurini
+209,Myoung-ah Kang
+210,YIXIN CHEN
+211,Jianyong Wang
+212,BENJAMIN W. WAH
+213,Petre Tzvetkov
+214,COSTAS GEORGIADIS
+215,Hai-Xun Wang
+216,Yoonkyong Lee
+217,L. V. S. Lakshmanan
+218,GUOZHU DONG
+219,Carnegie Mellon
+220,YUFEI TAO
+221,Dimitris Papadias
+222,Jiong Yang
+223,Rebecca Buchheit
+224,Orna Raz
+225,P. J. Koopman
+226,M. C. Shaw
+227,Y. Cai
+228,Young-koo Lee
+229,W. Kim
+230,Paul S. Fischbeck
+231,Jeanne Vanbriesen
+232,M SMALL
+233,Ramin Afshar
+234,Yang Wang
+235,Chenxi Wang
+236,Georgos Siganos
+237,Sujeong Ko
+238,Andrew Tomkins
+239,Kevin McCurley
+240,K. P. Unnikrishnan
+241,Ramasamy Uthurusamy
+242,Dharmendra S. Modha
+243,Pinar Duygulu
+244,J. Pan
+245,Hyung-jeong Yang
+246,Yifan Li
+247,Masafumi Hamamoto
+248,H. Kitagawa
+249,Lars Thrv
+250,G. K. M. Tobin
+251,E. M. Airoldi
+252,He Bin
+253,Liu Bin
+254,Guoqiang Shan
+255,Krishna Kumaraswamy
+256,Vasileios Megalooikonomou
+257,Yiping Zhan
+258,Zheng Shao
+259,A. Brockwell
+260,Kinman Au
+261,Cui ZHU
+262,Xiaoxin Yin
+263,M. Garland
+264,Andy Wu
+265,Xiaolei Li
+266,Xindong Wu
+267,Spiros PAPADIMITRIOU
+268,JIN Wen
+269,M Ester
+270,H. M. Qu
+271,D. A. Padua
+272,Shengnan Cong
+273,Robert F. Murphy
+274,Yu Huang
+275,Haiyan Hu
+276,Min Xu
+277,Xianghong Zhou
+278,Fei Pan
+279,Kiran Kamath
+280,Kangyu Zhang
+281,Liu Haifeng
+282,Hong Cheng
+283,Xin (Luna) Dong
+284,Arnab Bhattacharya
+285,Vebjorn Ljosa
+286,Ambuj K. Singh
+287,Mark R. Verardo
+288,Liu Xue Chao
+289,Fei Long
+290,Samuel P. Midkiff
+291,Yasushi Sakurai
+292,Masatoshi YOSHIKAWA
+293,Panayiotis Tsaparas-
+294,Risto A. Väisänen
+295,A. Gionis
+296,Stratos Papadomanolakis
+297,Steven W. Schlosser
+298,Minglong Shao
+299,Jiri Schindler
+300,W. H. Wang
+301,Lei Liu
+302,P. Bajcsy
+303,Angeline Wong
+304,Jay Hoeflinger
+305,Guo Li
+306,D P Siewiorek
+307,Wenyao Ho
+308,ASIM SMAILAGIC
+309,Venkatesh Ganti
+310,Kaushik Chakrabarti
+311,LIU Hong-Yan
+312,Wen Ji-Rong
+313,MA Wei-Ying
+314,Evan Hoke
+315,Jimeng Sun
+316,Jianjun Hu
+317,Avinash Achar
+318,Sudip Pulapura
+319,Juan Nunez-Iglesias
+320,H. J. Gonzalez
+321,Da-Cheng Tao
+322,Gregory Ganger
+323,John D. Strunk
+324,Diego Klabjan
+325,Hong-jiang Zhang
+326,C. Aggarwal
+327,Jae-Gil Lee
+328,B. K. Bhargava
+329,Yu Zhang
+330,Xiangyu Zhang Chao Liu
+331,CHIH-WEI HSU
+332,He Xiaofei
+333,Deng Cai
+334,John Paul Sondag
+335,Margaret Myslinska
+336,Zhang Hui
+337,Jure Leskovec
+338,B. Hujun
+339,Kun ZHOU
+340,Qiaozhu Mei
+341,C. Zhai
+342,Russell Dorer
+343,Sheng Zhong
+344,Chulyun Kim
+345,DAN XIE
+346,Masashi YAMAMURO
+347,J. Hodgins
+348,M. Hurst
+349,Natalie S. Glance
+350,Thomas Huang
+351,YuXiao Hu
+352,Christopher Wade Clifton
+353,Claudia Plant
+354,C. Böhm
+355,X. Shen
+356,TAMARA G. KOLDA
+357,Z. Hu
+358,Y.-G. Chen
+359,Eric P. Xing
+360,Zhongfei (Mark) Zhang
+361,Zhen Guo
+362,Gao Jing
+363,W. J. Fan
+364,Feida Zhu
+365,Ricardo Redder
+366,Jacob Lee
+367,Chun LI
+368,Xue-Long Li
+369,S. j. Maybank
+370,Jialie Shen
+371,Jon M. Kleinberg
+372,A Krause
+373,S. Madden
+374,C. Guestrin
+375,Wenjie Fu
+376,Lei Li
+377,T. C. Mowry
+378,Fan Guo
+379,Bolin Ding
+380,Yizhou Sun
+381,Zhijun Yin
+382,Xin He
+383,Ling Xu
+384,Yordanos Beyene
+385,Duen Horng Chau
+386,Xiang-yu ZHANG
+387,Mary McGlohon
+388,Leman Akoglu
+389,Hieu Le
+390,Hossein Ahmadi
+391,Mohammad Maifi Hasan Khan
+392,Tarek F. Abdelzaher
+393,Hanghang Tong
+394,Sangkyum Kim
+395,Z. Bar-Joseph
+396,Fernanda Balem
+397,Judith Klein-Seetharaman
+398,Yanjun Qi
+399,Yi ZHOU
+400,Zhang Bin
+401,Tina Eliassi-Rad
+402,Charalampos Tsourakakis
+403,Rosalynn Chong
+404,Karsten Borgwardt
+405,Eno Thereska
+406,Younhee Ko
+407,Jaebum Kim
+408,Seung-won Hwang
+409,Gueorgi Kossinets
+410,DAVID D. JENSEN
+411,K. Ravi Kumar‡
+412,Alex Tuzhilin
+413,Cindy Xinde Lin
+414,Luiz F. Mendes
+415,Xiaoyun Wu
+416,Ok-ran Jeong
+417,Eun-Seok Lee
+418,Jure Ferlez
+419,Dunja Mladenić
+420,M Grobelnik
+421,Frederick Eberhardt
+422,Brent Bryan
+423,Gunhee Kim
+424,Martial Hebert
+425,James Mccann
+426,Nancy Pollard
+427,Zhenhui Li
+428,Nan Du
+429,Bai Wang
+430,B. Thuraisingham
+431,Latifur Khan
+432,Yintao Yu
+433,Tianyi Wu
+434,Hani Jamjoom
+435,Yehuda Koren
+436,Duo Zhang
+437,Jiebo Luo
+438,Jie Yu
+439,Xin Jin
+440,Martin Mohlenkamp
+441,R. J. Harrison
+442,Frank Olken
+443,Dong-min Kim
+444,C. Martin
+445,I. S. Dhillon
+446,Lek-Heng Lim
+447,C. H. Q. Ding
+448,Orly Alter
+449,Sri Priya Ponnapalli
+450,CHARLES VAN LOAN
+451,A. D. Kennedy
+452,Michael W Mahoney
+453,J. Morton
+454,Julien LANGOU
+455,James Raynolds
+456,Evrim Acar
+457,Saday Sadayappan
+458,Brett William Bader
+459,J. Ram Ramanujam
+460,Stefan Ragnarsson
+461,SHMUEL FRIEDLAND
+462,Manal Helal
+463,Lieven DeLathauwer
+464,Larsson Omberg
+465,Berkant Savas
+466,G. Beylkin
+467,Phillip A. Regalia
+468,P. Drineas
+469,Z. Bai
+470,Lars Eldén
+471,Robert Plemmons
+472,Lenore M. R. Mullin
+473,Peixiang Zhao
+474,U Kang
+475,Xuanhui Wang
+476,C. H. Chen
+477,Matthew Fredrikson
+478,Mihai Christodorescu
+479,DAVID LO
+480,Siau-Cheng Khoo
+481,Liangliang Cao
+482,Guofei Jiang
+483,Hai-Feng Chen
+484,Mohammad M. Masud
+485,B. Aditya Prakash
+486,Mukund Seshadri
+487,Sridhar Machiraju
+488,Ashwin Sridharan
+489,Min-Soo Kim
+490,Chengnian Sun
+491,Binbin Liao
+492,Lu An Tang
+493,Yu Xiao
+494,K. Nahrstedt
+495,Rahul Malik
+496,Chandrasekar Ramachandran
+497,I. S. GUPTA
+498,Ashok N. Srivastava
+499,Nikunj C. Oza
+500,Ana Paula Appel
+501,Shanglin Hou
+502,Samson Hauguel
+503,Michaela Goetz
+504,Lu-An Tang
+505,Ming Ji
+506,H. Deng
+507,Jian-bin Huang
+508,Heli Sun
+509,Boqin Feng
+510,ZOUBIN GHAHRAMANI
+511,A. Loureiro
+512,Pedro O. S. Vaz de Melo
+513,Feroze B. Mohamed
+514,Scott Faro
+515,Kriti Puniyani
+516,Dustin Bortner
+517,Tim Weninger
+518,Hyungsul Kim
+519,Suoping Li
+520,Chunlian Hu
+521,Zhong-yi Wang
+522,Yan-jun Liu
+523,Jingli Lei
+524,Marina Danilevsky
+525,L Liu
+526,TANG Jie
+527,SHI-QIANG YANG
+528,Bing Liu
+529,Cindy Xide Lin
+530,Wang Gang
+531,Dhiraj Joshi
+532,Cuiping Li
+533,Chi Wang
+534,D Malerba
+535,Fabio Fumarola
+536,Nicholas Valler
+537,RUI LI
+538,Manish Gupta
+539,William H. Hsu
+540,Suman Kumar Nath
+541,Zixia Huang
+542,Raoul Rivas
+543,Ahsan Arefin
+544,Koji Maruhashi
+545,Wen-chih Peng
+546,Chih-chieh Hung
+547,Y. Liu
+548,Kavita Ganesan
+549,Rui Ma
+550,W. Scott Spangler
+551,Lucia
+552,Michael Butkiewicz
+553,Raghu k. Ganti
+554,N. Pham
+555,Hong-ning Wang
+556,Rick Barber
+557,Jason Hong
+558,Aniket Kittur
+559,Jie Zhang
+560,Sai Chen
+561,Daobin Wang
+562,Yunliang Jiang
+563,Jing Yuan
+564,Yu Zheng
+565,Sangwook P. Kim
+566,Jiwoon Ha
+567,Joshua M. Hailpern
+568,Joon-Ho Lee
+569,Kinam Kim
+570,Bo Zhao
+571,Y. Richard Yang
+572,Saurav Pandit
+573,Nitesh V. Chawla
+574,Agma J. M. Traina
+575,Caetano Traina Junior
+576,Robson Leonardo Ferreira Cordeiro
+577,Julio Lopez
+578,Kuo-Ping Wu
+579,Ismail Adel Al-Taharwa
+580,Ching-Hao Mao
+581,Shyi-Ming Chen
+582,Hsin-Kuo Pao
+583,Albert B. Jeng
+584,Hahn-ming Lee
+585,Misael Mongiovì
+586,Evangelos E. Papalexakis
+587,Razvan Ranca
+588,Petko Bogdanov
+589,Danai Koutra
+590,J. Vreeken
+591,Qi He
+592,John McPherson
+593,"Wang-Chien 
+594,Xingjie Liu
+595,Yuanyuan Tian
+596,Nikita Spirin
